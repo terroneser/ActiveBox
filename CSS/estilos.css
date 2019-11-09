@@ -1,0 +1,91 @@
+#header-top{
+	padding-top: 42px;
+	padding-left:360px;
+	padding-right: 360px;
+}
+nav{margin-top: 0px;}
+nav ul{
+	list-style:none; padding-left:0px;
+	padding-right:0px;
+}
+nav ul li{
+	display:inline-block;
+}
+nav ul li a{
+	text-decoration: none; color: #080808; font-size: 10px; padding-right: 60px; 
+	font-family: 'Raleway-Bold', sans-serif;
+}
+nav ul li:last-child a{
+padding-right: 0px;
+}
+#menu-header{
+	padding-left: 10px;
+}
+button{
+	background-color: red;
+	color: white;
+	padding-top: 18px;
+	padding-bottom: 18px;
+	padding-left: 53px;
+	padding-right: 53px;
+	border: none;
+	text-decoration:none; font-family: 'Raleway-Semibold', sans-serif; font-size: 13px;
+}
+#find{
+	padding-top: 82px;
+	padding-bottom: 155px;
+}
+#texto1{
+	padding-top: 155px;
+	list-style: none;
+	display:inline-block;
+}
+article ul li{
+	text-decoration: none; font-family: 'OpenSans-Bold', sans-serif; font-size: 55px; list-style: none;
+}
+article ul li p{
+	text-decoration: none; font-family: 'Raleway-Regular', sans-serif; font-size: 18px; list-style: none;
+	padding-top: 40px;
+}
+/*sección 2*/
+#header2{
+	padding-top: 120px;
+	padding-left: 200px;
+	padding-right: 410px;
+	padding-bottom: 130px;
+}
+#texto2 article ul li{
+	text-decoration: none; font-family: 'Raleway-Bold', sans-serif; font-size: 14px; list-style: none;
+}
+#texto2 article ul li p{
+	text-decoration: none; font-family: 'Raleway-Regular', sans-serif; font-size: 14px; list-style: none;
+}
+#texto3 article ul li{
+	text-decoration: none; font-family: 'Raleway-Bold', sans-serif; font-size: 14px; list-style: none;
+}
+#texto3 article ul li p{
+	text-decoration: none; font-family: 'Raleway-Regular', sans-serif; font-size: 14px; list-style: none;
+}
+#texto4 article ul li{
+	text-decoration: none; font-family: 'Raleway-Bold', sans-serif; font-size: 14px; list-style: none;
+}
+#texto4 article ul li p{
+	text-decoration: none; font-family: 'Raleway-Regular', sans-serif; font-size: 14px; list-style: none;
+}#texto5 article ul li{
+	text-decoration: none; font-family: 'Raleway-Bold', sans-serif; font-size: 14px; list-style: none;
+}
+#texto5 article ul li p{
+	text-decoration: none; font-family: 'Raleway-Regular', sans-serif; font-size: 14px; list-style: none;
+}
+#texto6 article ul li{
+	text-decoration: none; font-family: 'Raleway-Bold', sans-serif; font-size: 14px; list-style: none;
+}
+#texto6 article ul li p{
+	text-decoration: none; font-family: 'Raleway-Regular', sans-serif; font-size: 14px; list-style: none;
+}
+#texto7 article ul li{
+	text-decoration: none; font-family: 'Raleway-Bold', sans-serif; font-size: 14px; list-style: none;
+}
+#texto7 article ul li p{
+	text-decoration: none; font-family: 'Raleway-Regular', sans-serif; font-size: 14px; list-style: none;
+}
