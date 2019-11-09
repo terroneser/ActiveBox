@@ -13,7 +13,7 @@ nav ul li{
 	display:inline-block;
 }
 nav ul li a{
-	text-decoration: none; color: #080808; font-size: 10px; padding-right: 60px; 
+	text-decoration: none; color: #ffffff; font-size: 10px; padding-right: 60px; 
 	font-family: 'Raleway-Bold', sans-serif;
 }
 nav ul li:last-child a{
@@ -42,11 +42,11 @@ button{
 	display:inline-block;
 }
 article ul li{
-	text-decoration: none; font-family: 'OpenSans-Bold', sans-serif; font-size: 55px; list-style: none;
+	text-decoration: none; font-family: 'OpenSans-Bold', sans-serif; font-size: 55px; list-style: none; color: #ffffff;
 }
 article ul li p{
 	text-decoration: none; font-family: 'Raleway-Regular', sans-serif; font-size: 18px; list-style: none;
-	padding-top: 40px;
+	padding-top: 40px; color: #ffffff;
 }
 /*sección 2*/
 #header2{
@@ -60,9 +60,11 @@ article ul{
 }
 #text article ul li{
 	text-decoration: none; font-family: 'Raleway-Bold', sans-serif; font-size: 14px; list-style: none;
+	padding-left: 100px; color: #2d3033;
 }
 #text article ul li p{
 	text-decoration: none; font-family: 'Raleway-Regular', sans-serif; font-size: 14px; list-style: none;
+	padding-top: 25px; color: #b1b4b8;
 }
 #lapices{
 	padding-left: 138px;
@@ -72,5 +74,18 @@ article ul{
 	padding-left: 138px;
 }
 #foco{
+	padding-left: 138px;
+}
+#genius{
+	padding-top: 75px;
+	padding-left: 138px;
+	padding-bottom: 35px;
+}
+#portafolio{
+	padding-top: 75px;
+	padding-left: 138px;
+}
+#nube{
+	padding-top: 75px;
 	padding-left: 138px;
 }
