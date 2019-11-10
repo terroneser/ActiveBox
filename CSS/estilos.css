@@ -42,7 +42,6 @@ p{
     align-items: center;
     border-bottom: 3px solid #515369;
 }
-
 /* Nav */
 
 .nav{
@@ -126,4 +125,10 @@ p{
 
 .btn--red:hover{
     background-color: #df2f2f;
+}
+/* Imagenes*/
+.imagenes{
+    width: 100%;
+    max-width: 1100px;
+    margin: 0px;
 }
