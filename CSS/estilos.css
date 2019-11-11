@@ -162,15 +162,38 @@ p{
 }
 /* Imagenes*/
 .imagenes{
-    padding-left: 0px;
-    margin: 0px;
+    width: 100%;
+   height: 100%;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    
 }
-.imagenes{
-    padding-top: 0px;
-    margin-top: 0px;
-}
+
 /*sección 4*/
 .header3{
-    margin-top: 100px;
-    border-color: none;
+   padding-left: 3000px;
 }
+article ul li{
+    font-size: 22px;
+    font-family: 'Raleway';
+    color: #8f9192;
+    list-style:none; padding-left:0px;
+    padding-right: 0px;
+}
+article ul li-2{
+    font-size: 13px;
+    font-family: 'Raleway' ; 
+    color: #e84545;
+    list-style:none; padding-left:0px;
+    padding-right: 0px;
+}
+article ul li-3{
+    font-size: 14px;
+    font-family: 'Raleway' ; 
+    color: #babdc0;
+    list-style:none; padding-left:0px;
+    padding-right: 0px;
+}
+
