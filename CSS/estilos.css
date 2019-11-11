@@ -128,5 +128,10 @@ p{
 }
 /* Imagenes*/
 .imagenes{
-
+    padding-left: 0px;
+    margin: 0px;
+}
+.imagenes{
+    padding-top: 0px;
+    margin-top: 0px;
 }
