@@ -35,7 +35,7 @@ p{
     position: absolute;
 }
 
-.header__inner{
+.headerinner{
     display: flex;
     justify-content:space-between;
     padding: 46px 0;
@@ -113,14 +113,14 @@ p{
     no-repeat / cover;
 }
 
-.intro__inner{
+.introinner{
     width: 100%;
     max-width: 970px;
     margin: 0 auto;
     text-align: center;
 }
 
-.intro__title {
+.introtitle {
     margin: 0 0 47px;
     font-family: 'Open Sans', sans-serif;
     font-size: 65px;
@@ -130,7 +130,7 @@ p{
     text-align: center;
 }
 
-.intro__subtitle{
+.introsubtitle{
     margin-bottom: 82px;
     font-size: 22px;
     color: #fff;
@@ -197,3 +197,6 @@ article ul li-3{
     padding-right: 0px;
 }
 
+.reviews{
+    background-color:  
+}
