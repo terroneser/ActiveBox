@@ -161,17 +161,12 @@ p{
     background-color: #df2f2f;
 }
 /* Imagenes*/
-.imagenes{
-    width: 100%;
-   height: 100%;
-   overflow: scroll;
-    margin: auto;
-    min-width: 500px;
-}
 ul{
     padding-left: 0px;
 }
-
+.imagenes img{
+    max-width: 379px;
+}
 /*sección 4*/
 .our_team{
     padding-top: 103px;
