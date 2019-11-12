@@ -164,17 +164,20 @@ p{
 .imagenes{
     width: 100%;
    height: 100%;
+   overflow: scroll;
     margin: auto;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    
+    min-width: 500px;
+}
+ul{
+    padding-left: 0px;
 }
 
 /*sección 4*/
-.header3{
-   padding-left: 3000px;
+.our_team{
+    padding-top: 103px;
+    padding-bottom: 103px;
 }
+
 article ul li{
     font-size: 22px;
     font-family: 'Raleway';
