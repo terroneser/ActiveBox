@@ -197,7 +197,72 @@ article ul li-3{
     list-style:none; padding-left:0px;
     padding-right: 0px;
 }
-
 .reviews{
-    background-color:  
+    overflow: hidden;
+    background-color: #53354a;
+}
+
+.reviews__item{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.reviews__photo{
+    width: 50%;
+    height: 500px;
+    position: relative;
+}
+
+.reviews__img{
+    position: absolute;
+    top: 50%;
+    right: 0;
+    z-index: 1;
+    transform: translateY(-50%);
+}
+
+.reviews__content{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 50%;
+    padding-left: 80px;
+}
+
+.reviews__text{
+    font-family: 'Cardo', sans-serif;
+    font-style: italic;
+    font-size: 36px;
+    line-height: 1.2;
+    color: #fff;
+    margin-bottom: 45px;
+}
+
+.reviews__author{
+    font-size: 13px;
+    font-weight: 700;
+    text-transform: uppercase;
+    color: #fff;
+}
+
+/* Download */
+
+.download{
+    margin: 102px 0 100px;
+    text-align: center;
+}
+
+.download__title{
+    margin-bottom: 22px;
+    font-size: 28px;
+    color: #2d3033;
+    font-weight: 300;
+}
+
+.download__text{
+    margin-bottom: 41px;
+    font-size: 13px;
+    color: #2d3033;
+    font-weight: 700;
+    text-transform: uppercase;
 }
