@@ -165,14 +165,17 @@ ul{
     padding-left: 0px;
 }
 .imagenes img{
-    max-width: 379px;
+    max-width: 377px;
 }
+
 /*sección 4*/
 .our_team{
     padding-top: 103px;
     padding-bottom: 103px;
 }
-
+.our_team img{
+    max-width: 200px;
+}
 article ul li{
     font-size: 22px;
     font-family: 'Raleway';
@@ -188,7 +191,7 @@ article ul li-2{
     padding-right: 0px;
 }
 article ul li-3{
-    font-size: 14px;
+    font-size: 12px;
     font-family: 'Raleway' ; 
     color: #babdc0;
     list-style:none; padding-left:0px;
