@@ -167,6 +167,11 @@ ul{
 .imagenes img{
     max-width: 377px;
 }
+.imagenes:hover{
+    background-image: #d74444;
+    color: #d74444;
+    background-color: #d74444;
+}
 
 /*sección 4*/
 .our_team{
