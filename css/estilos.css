@@ -161,10 +161,9 @@ p{
     background-color: #df2f2f;
 }
 /* Sección 3*/
-.works{
+.works__1{
     display: flex;
     flex-wrap: wrap;
-
 }
 .works__item{
     width: 25%;
@@ -173,6 +172,7 @@ p{
     border-right: 0px solid #fff;
     position: relative;
     overflow: hidden;
+
 }
 .works__item:hover .works__content{
     opacity: 1;
@@ -220,6 +220,7 @@ ul{
     padding-top: 103px;
     padding-bottom: 103px;
     padding-left: 300px;
+    padding-right: 300px;
 }
 .our_team img{
     max-width: 200px;
@@ -245,6 +246,7 @@ article ul li-3{
     list-style:none; padding-left:0px;
     padding-right: 0px;
 }
+/*reviews*/
 .reviews{
     overflow: hidden;
     background-color: #53354a;
