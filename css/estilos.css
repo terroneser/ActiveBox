@@ -161,9 +161,10 @@ p{
     background-color: #df2f2f;
 }
 /* Sección 3*/
-.works__1{
+.works{
     display: flex;
     flex-wrap: wrap;
+
 }
 .works__item{
     width: 25%;
@@ -172,7 +173,6 @@ p{
     border-right: 0px solid #fff;
     position: relative;
     overflow: hidden;
-
 }
 .works__item:hover .works__content{
     opacity: 1;
